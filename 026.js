@@ -16,5 +16,4 @@ function convertePalavrasMinusculas(palavras){
     return palavrasMinusculas
 
 }
-
 console.log(convertePalavrasMinusculas(palavras))
