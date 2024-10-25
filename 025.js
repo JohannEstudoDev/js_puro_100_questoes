@@ -14,14 +14,3 @@ const mudaPalavrasParaMaiusculas = palavras.map(palavras => palavras.toUpperCase
 
 }
 console.log(palavrasMaiusculas(palavras))
-
-/*
-const palavras = ["java", "kotlin", "python"];
-
-function palavrasMaiusculas(palavras) {
-  const palavrasMaiusculas = palavras.map(palavra => palavra.toUpperCase());
-  return palavrasMaiusculas;
-}
-
-console.log(palavrasMaiusculas(palavras));
-*/
