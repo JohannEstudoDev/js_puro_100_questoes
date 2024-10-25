@@ -8,10 +8,3 @@ const numeros = [2,2,2,2]
 const soma = numeros.reduce((incremento, numero) => incremento + numero, 0)
 
 console.log(soma)
-
-//const numeros = [1, 2, 3, 4, 5];
-
-// Utilizando reduce() para somar os números
-//const soma = numeros.reduce((acumulador, numero) => acumulador + numero, 0);
-
-//console.log(soma); // Saída: 15
